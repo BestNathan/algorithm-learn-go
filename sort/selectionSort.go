@@ -1,4 +1,4 @@
-package main
+package sort
 
 func SelectionSort(arr []int) []int {
 	l := len(arr)
