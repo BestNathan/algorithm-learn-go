@@ -14,6 +14,11 @@ func Run()  {
 	
 	fmt.Println("order print: ")
 	OrderPrint()
+	fmt.Println()
+
+	fmt.Println("building h2o: ")
+	BuildH2O()
+	fmt.Println()
 
 	fmt.Println("================= concurrency ==================")
 }
