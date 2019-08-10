@@ -10,5 +10,7 @@ func Run()  {
 
 	ClimbStairs()
 
+	LongestValidParentheses()
+
 	fmt.Println("================= dynamic programming ==================")
 }
