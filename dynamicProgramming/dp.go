@@ -12,5 +12,7 @@ func Run()  {
 
 	LongestValidParentheses()
 
+	IsMatch()
+
 	fmt.Println("================= dynamic programming ==================")
 }
