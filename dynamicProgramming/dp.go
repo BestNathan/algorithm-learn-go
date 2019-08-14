@@ -14,5 +14,7 @@ func Run()  {
 
 	IsMatch()
 
+	LongestPalindrome()
+
 	fmt.Println("================= dynamic programming ==================")
 }
